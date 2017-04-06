@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "37146097468",
+    "firebase_url": "https://uhealth-4585c.firebaseio.com",
+    "project_id": "uhealth-4585c",
+    "storage_bucket": "uhealth-4585c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37146097468:android:9ce8458609cd5235",
+        "android_client_info": {
+          "package_name": "com.vanesharma.uhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37146097468-rs6mm7jamjf6jk5e9hi8fslfn4q7c07g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1KjOrifX_waimvrSeATKjcepg5DHXHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
